@@ -4,7 +4,7 @@
 
 # Projeto com: Html, Css e principalmente JS
 
-*o quiz conta com pontuação a cada acerto
+*o quiz conta com pontuação a cada acerto >
 efeitos de sons a cada pergunta: se acertou ou errou
 cor vermelha para erro
 cor verde para acerto
